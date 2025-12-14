@@ -94,8 +94,4 @@ This project ingests historical and real-time weather data from the Open-Meteo A
 2. Disable or undeploy the Cloud Run Function.
 3. (Optional) Delete Pub/Sub subscription if no longer needed.
 
----
 
-## Reproducibility Notes
-- All infrastructure can be recreated using the documented steps in the README.
-- Tables can be safely dropped and reloaded without impacting source data.
